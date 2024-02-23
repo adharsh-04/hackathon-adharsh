@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World"
+    },
+    {
+      "id": "2",
+      "title": "JSON Server"
+    },
+    {
+      "id": "7bc9",
+      "username": "adharsh",
+      "email": "adharshsanda@gmail.com",
+      "password": "$2a$10$a7KBBcgIPjBQVsa8VCLZe.N.nla1IwCKZTLU/YGPLNOiapWDB7mle"
+    },
+    {
+      "id": "c4b2",
+      "username": "Adharsh sanda",
+      "email": "p@gmail.com",
+      "password": "$2a$10$wOoiEfhiHPMtxOGKY.zzd.vT0bFfGzic7xlrtY3S6cbItTObSUb9m"
+    }
+  ]
+}
